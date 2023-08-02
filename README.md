@@ -2,8 +2,21 @@
 
 - 👨‍🎓 Developer in the making!✨
 - 💻 I'm currently looking for opportunities to start working!
-- 📝 I've been studying since 2022 and currently know Python, HTML, CSS, Java, Javasript, SQL, Node, Git, React, Vue, C++, Tailwind, Typescript... (Trying to keep me updated as best as possible 😄) 
-- 💬 If you want to have a chat you can find me at <strong>@danielkucyk</strong> on LinkedIn and most social medias!
+- 📝 I've been studying since 2022 and currently know (Trying to keep me updated as best as possible 😄):
+  * Python
+  * HTML
+  * CSS
+  * Javasript
+  * SQL
+  * Node
+  * Git
+  * React
+  * Vue
+  * C/C++
+  * Tailwind
+  * Typescript
+  * More...
+- 💬 If you want to have a chat you can find me at [<strong>@danielkucyk</strong>](https://www.linkedin.com/in/daniel-kucyk/) on LinkedIn!
 - 📫 Or send an email to daniel-gk@hotmail.com ⭐
 
 <!---
