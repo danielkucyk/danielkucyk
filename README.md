@@ -1,7 +1,6 @@
-<h1><strong>Hello there! 👋 Daniel here!</strong></h1>
+<h1><strong>Hey! 👋 Daniel here!</strong></h1>
 
-- 👨‍🎓 Developer in the making!✨
-- 💻 I'm currently looking for opportunities to start working!
+- 👨‍🎓 Full-stack Developer and AI enthusiast!
 - 📝 I've been studying since 2022 and currently know (Trying to keep me updated as best as possible 😄):
   * Python
   * HTML
