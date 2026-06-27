@@ -1,10 +1,8 @@
 # <strong>🔷Hey! Daniel here! </strong>
 
-#### 🔵 Full-stack Developer and AI enthusiast!
-#### 💻 I currently work as a Developer at Pivot 08, where I contribute to the development of advanced scripts, focusing on optimizing responsive and intuitive web interfaces.
-#### ⚙️ Currently know: Python, HTML, CSS, Javascript, SQL, Node, React, Vue, C/C++, Tailwind, Typescript, More... (Trying to keep me updated as best as possible 😄)
+#### 🔵 Software Engineer and frontend enthusiast!
+#### 💻 I currently work at Pivot 08, where I contribute to the development of advanced components and scripts, focusing on optimizing responsive and intuitive web interfaces.
 #### 💬 If you want to have a chat you can find me on LinkedIn [@danielkucyk](https://www.linkedin.com/in/daniel-kucyk)!
-
 #### 📫 Or send an email to daniel-gk@hotmail.com ⭐
 
 <!---
